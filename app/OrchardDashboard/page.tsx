@@ -1,3 +1,3 @@
 export default function OrchardDashboard() {
-  return <h1>Hello Next.js!</h1>
+  return <h1>Orchard Home</h1>
 }
