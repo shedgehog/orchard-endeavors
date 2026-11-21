@@ -9,8 +9,10 @@
   },
   "dependencies": {
     "next": "^16.4.6",
+    "npm": "^12",
     "react": "19.2.1",
-    "react-dom": "19.2.1"
+    "react-dom": "19.2.1",
+    "update": "^0.7.4"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.3.5",
